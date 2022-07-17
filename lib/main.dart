@@ -64,9 +64,9 @@ class MyAppState extends State<MyApp> {
     {
       'questionText': 'What\'s your favorite day?',
       'answers': [
-        {'text': 'Saturday', 'score': 1},
-        {'text': 'Sunday', 'score': 1},
-        {'text': 'Monday', 'score': 1},
+        {'text': 'Saturday', 'score': 4},
+        {'text': 'Sunday', 'score': 3},
+        {'text': 'Monday', 'score': 2},
         {'text': 'Tuseday', 'score': 1},
       ],
     },
